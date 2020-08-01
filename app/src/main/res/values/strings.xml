@@ -1,0 +1,9 @@
+<resources>
+    <string name ="app_name">Avengers</string>
+    <string name ="characters">Characters</string>
+    <string name ="comics">Comics</string>
+    <string name ="desc">Description</string>
+    <string name ="all_comics">See all comics</string>
+    <string name ="all_characters">See all characters</string>
+    <string name ="series">Select a series</string>
+</resources>
